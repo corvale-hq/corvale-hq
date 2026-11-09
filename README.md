@@ -9,12 +9,15 @@ to see it through.
 - **Build**: business systems, digital products, integration and automation, delivered end to end by one senior lead.
 - **Improve**: security, legacy modernization and scaling, without a full rewrite.
 
-## Find us
+## Websites
 
 - [corvale.pt](https://corvale.pt): services, case studies, book a call
 - [network.corvale.pt](https://network.corvale.pt): senior engineers, full-time or fractional
 - [engineering.corvale.pt](https://engineering.corvale.pt): engineering notes on how the systems were built
-- [LinkedIn](https://www.linkedin.com/company/corvale-hq) · [Substack](https://substack.com/@corvalehq)
+
+## Contact
+
 - [hello@corvale.pt](mailto:hello@corvale.pt)
+- [LinkedIn](https://www.linkedin.com/company/corvale-hq) · [Substack](https://substack.com/@corvalehq)
 
 Client work lives in private repositories.
